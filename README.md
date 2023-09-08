@@ -20,8 +20,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+	<a href="https://cap.cloud.sap/docs/" target="_blank" rel="noreferrer"> 
+    <img src="https://cap.cloud.sap/docs/assets/logos/cap.svg" alt="SAP CAPM " width="40" height="40"/> 
+  </a>
 	<a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/50221243?s=40&v=4" alt="sap" width="40" height="40"/> 
+  </a>
+	<a href="https://openui5.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wNhbna63crTdP2FkQzFK1X8Ix-Uk5MZXMGPZWbpnxCKFWO6x-BGh2s3Ic9EudJN30Ik&usqp=CAU" alt="OPEN UI5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
