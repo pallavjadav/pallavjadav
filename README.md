@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pallavkumar Jadav</h1>
-<h3 align="center">A passionate SAP BTP fullstack developer from India</h3>
+<h3 align="center">A passionate SAP BTP FullStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavjadav&label=Profile%20views&color=0e75b6&style=flat" alt="pallavjadav" /> </p>
 
-- 🔭 I’m currently working on **SAP BTP Extension Suite**
+- 🔭 I’m currently working on **NODE.JS, SAPUI5, OPENUI5**
 
 - 🌱 I’m currently learning **SAP BTP Extension Suite**
 
-- 👯 I’m looking to collaborate on **SAP BTP,SAP UI5,SAP FIORI**
+- 👯 I’m looking to collaborate on **SAP BTP, SAP UI5, SAP FIORI, NODE.JS**
 
-- 💬 Ask me about **SAP UI5,SAP BTP, NODEJS**
+- 💬 Ask me about **SAP UI5, SAP BTP, SAP CAP, NODEJS**
 
-- 📫 How to reach me **pallavjadav@gmail.com**
+- 📫 How to reach me **pallavjadav@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
