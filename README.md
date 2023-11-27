@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavjadav&label=Profile%20views&color=0e75b6&style=flat" alt="pallavjadav" /> </p>
 
-- 🔭 I’m currently working on **NODE.JS, SAPUI5, OPENUI5**
+- 🔭 I’m currently working on **SAP Cloud Application Programming, NODE.JS, SAPUI5, OPENUI5, OKTA**
 
 - 🌱 I’m currently learning **SAP BTP Extension Suite**
 
